@@ -177,18 +177,6 @@ https://car-price-docker.onrender.com
 
 ---
 
-## 📷 Screenshots
-
-### Home Page
-
-(Add Screenshot Here)
-
-### Prediction Result
-
-(Add Screenshot Here)
-
----
-
 ## 👨‍💻 Author
 
 **Bulbul Chouhan**
